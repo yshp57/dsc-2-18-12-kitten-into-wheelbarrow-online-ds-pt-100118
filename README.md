@@ -1,6 +1,12 @@
-# CSS Kitten Wheelbarrow
 
-Help collect all the kittens into the wheelbarrow using CSS selectors.
+# Kitten Into Wheelbarrow - Lab
+
+## Introduction
+In this lesson you'll help collect all the kittens into the wheelbarrow using CSS selectors.
+
+## Objectives
+You will be able to:
+* Use various CSS selectors to style elements
 
 ## Steps
 
@@ -21,3 +27,7 @@ Help collect all the kittens into the wheelbarrow using CSS selectors.
 2. Use the comments in **css/place-kitty.css** to write the correct selectors to move each kitty into the wheelbarrow.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/css-kitten-wheelbarrow' title='CSS Kitten Wheelbarrow'>CSS Kitten Wheelbarrow</a> on Learn.co and start learning to code for free.</p>
+
+
+## Summary
+Well done! In this lab you practiced styling a web page using various CSS selectors!
